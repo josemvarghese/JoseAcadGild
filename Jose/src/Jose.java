@@ -10,5 +10,7 @@ public class Jose {
 		int num=23;
 		System.out.println((double)num);
 		System.out.println("josewww");
+		System.out.println(" nvghndfhjtg");
+		
 	}
 }
